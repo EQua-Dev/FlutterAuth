@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "172201409827",
+    "project_id": "lloyd-test-flutter",
+    "storage_bucket": "lloyd-test-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172201409827:android:9254a8d20e8c769b73e096",
+        "android_client_info": {
+          "package_name": "com.devstrike.flutter_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172201409827-29ggesgamfdb1ne2qlvqgkk35utm71j2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp1jJbJfgH73enxK1AaEZtqIL2SBlZczk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172201409827-29ggesgamfdb1ne2qlvqgkk35utm71j2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
